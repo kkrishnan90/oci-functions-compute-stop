@@ -1,4 +1,4 @@
 api-url: https://functions.ap-mumbai-1.oraclecloud.com
 oracle.compartment-id: ocid1.compartment.oc1..xxxxxxxxxxxxxxxxxxxxxxr3nqa
 provider: oracle-cs
-registry: bom.ocir.io/<namespace>/jde-compute-schedule-stop
+registry: bom.ocir.io/<namespace>/compute-schedule-stop
